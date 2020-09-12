@@ -55,10 +55,10 @@ Some groups don't realise `m` is meant to be used for MBAFF and use `i` anyway s
 
 This is where you would go and look into how source formats are as each source of the video contents have different formats for this Source area. Here's a couple common ones:
 
-- DVD, but a full backup: e.g. `3xDVD9 DVD5` this means there's three DVD9 dics and one DVD5 disc.
+- DVD, but a full backup: e.g. `USA 3xDVD9 DVD5` this means there's three DVD9 dics and one DVD5 disc and it's a DVD sold in `USA`.
 - DVD, but REMUXED: `DVD REMUX`
 - DVD, but Encoded: `DVD`
-- Blu-ray, but a full backup: `Blu-ray` (it was very common to be `BluRay` leading to confusion but has since shifted to `Blu-ray`)
+- Blu-ray, but a full backup: `USA Blu-ray` (it was very common to be `BluRay` leading to confusion but has since shifted to `Blu-ray`) this means it's a Blu-ray sold in `USA`.
 - Blu-ray, but REMUXED: `BluRay REMUX`
 - Blu-ray, but Encoded: `BluRay`
 - Untouched Decrypted download from a WEB source (paid or free): `<Source Tag> WEB-DL`
